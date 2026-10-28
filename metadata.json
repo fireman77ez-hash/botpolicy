@@ -1,0 +1,6 @@
+{
+  "name": "Discord Bot Terms of Service & Safety Guidelines",
+  "description": "Official Terms of Service, Acceptable Use Policy, and Discord Safety Guidelines for bot applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
